@@ -11,6 +11,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kyawkk&show_icons=true&locale=en" alt="Kyawkk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyawkk&" alt="Kyawkk" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyawkk&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <!---
 Kyawkk/Kyawkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
