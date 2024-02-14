@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Kyawkk
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin for Android Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Kyaw Zin Linn 👋🏾 👩🏾‍💻
 
 <img src="https://raw.githubusercontent.com/Kyawkk/Kyawkk/main/Add%20a%20heading.jpg" alt="banner">
   
