@@ -1,4 +1,4 @@
-# Hi, I'm Kyaw Zin Linn 👋👦💻
+# Hi, I'm Kyaw Zin Linn 👋🏼💻
 
 <img src="https://raw.githubusercontent.com/Kyawkk/Kyawkk/main/Add%20a%20heading.jpg" alt="banner">
   
