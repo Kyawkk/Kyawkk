@@ -83,62 +83,13 @@ location: "Da Nang, Vietnam"
 
 ---
 
-## 🎯 **Featured Projects**
+## 🏆 **Key Achievements**
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 📱 **Burma Connect**
-*Community app for Burmese diaspora*
-- **Tech:** Jetpack Compose, Multi-module, Clean Architecture
-- **Features:** Location-based business discovery, Event management
-- **Impact:** 10,000+ downloads on Play Store
-
-</td>
-<td width="50%">
-
-### 🔐 **VKeys**
-*Premium VPN sharing platform*
-- **Tech:** Kotlin, Firebase, OneSignal
-- **Features:** Free VPN key sharing, Real-time notifications
-- **Impact:** 10,000+ active users
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎬 **The Movies**
-*Cinema exploration app*
-- **Tech:** Clean Architecture, Offline caching, Custom views
-- **Features:** Movie details, Cast info, Search functionality
-- **Status:** Open source project
-
-</td>
-<td width="50%">
-
-### 💳 **ORO Wallet**
-*Secure mobile payment solution*
-- **Tech:** 2C2P gateway, Social auth, Firebase
-- **Features:** Multi-platform support, Secure transactions
-- **Platforms:** Android & iOS
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 🏆 **Open Source Contributions**
-
-```
-🔧 SMS Sender         → Work Manager + Room Database + Auto SMS
-🎨 MIUI Font Changer  → Custom font installation for Xiaomi devices  
-📊 Spec Comparer     → Device comparison with web scraping
-🏥 MCare             → Health companion with first aid guide
+```yaml
+commercial_apps: "Burma Connect (10K+ downloads), ORO Wallet, VKeys"
+specializations: "RFID Integration • Payment Gateways • Social Authentication"
+architecture_expertise: "MVVM • Clean Architecture • Multi-module Design"
+open_source: "Active contributor with multiple published projects"
 ```
 
 ---
