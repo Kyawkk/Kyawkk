@@ -94,23 +94,23 @@ open_source: "Active contributor with multiple published projects"
 
 ---
 
-## 📈 **Professional Growth**
+## 📈 **Career Journey**
 
 <div align="center">
 
-```mermaid
-gitgraph
-    commit id: "Freelance Developer"
-    commit id: "Light Idea Software"
-    commit id: "E-Tag RFID Singapore"
-    commit id: "SCITGoC Singapore"
-    commit id: "Future Goals"
 ```
-
-**2020-2022:** Freelance Android Developer  
-**2022-2023:** Light Idea Software Company, Myanmar  
-**2023-2024:** E-Tag RFID, Singapore  
-**2024-Present:** SCITGoC, Singapore  
+🚀 2020-2022  │  Freelance Android Developer
+              │  ↳ Custom VPN apps, Management tools, Delivery solutions
+              │
+🏢 2022-2023  │  Light Idea Software • Myanmar  
+              │  ↳ Android apps, Firebase integration, Third-party APIs
+              │
+🌏 2023-2024  │  E-Tag RFID • Singapore
+              │  ↳ RFID integration, Inventory management, Hardware collaboration
+              │
+⭐ 2024-Now   │  SCITGoC • Singapore
+              │  ↳ Jetpack Compose, GraphQL, Payment gateways, Multi-platform
+```
 
 </div>
 
@@ -120,7 +120,11 @@ gitgraph
 
 ### 💡 **"Clean code always looks like it was written by someone who cares"**
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kyawkk&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/Kyawkk)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyawkk/Kyawkk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyawkk/Kyawkk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kyawkk/Kyawkk/output/github-contribution-grid-snake.svg">
+</picture>
 
 **Available for collaboration** • **Open to new opportunities** • **Always learning**
 
