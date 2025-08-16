@@ -7,7 +7,9 @@
 ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝     ╚══════╝╚═╝╚═╝  ╚═══╝    ╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Kyaw%20Zin%20Linn&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,4,12,18&height=140&section=header&text=KYAW%20ZIN%20LINN&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Senior%20Android%20Developer%20%7C%20100K%2B%20Downloads&descSize=18&descAlignY=85" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Android+Developer+%7C+Mobile+Architecture+Expert;4%2B+Years+Building+Scalable+Mobile+Solutions;Kotlin+%7C+Jetpack+Compose+%7C+Clean+Architecture;Singapore+%7C+Myanmar+%7C+Vietnam" alt="Typing SVG" />
@@ -26,11 +28,11 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🚀 **Android Developer with 4+ years** of crafting exceptional mobile experiences
 
@@ -40,7 +42,7 @@
 
 🎯 **Expertise:** RFID Integration • Payment Gateways • Clean Architecture
 
-🌟 **Impact:** Built apps with **10,000+ downloads** and enterprise solutions
+🌟 **Impact:** Built apps with **100,000+ downloads** and enterprise solutions
 
 💼 **Experience:** Singapore • Myanmar • Vietnam markets
 
@@ -151,9 +153,9 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/10K+-Downloads-FF6B35?style=for-the-badge&logo=googleplay&logoColor=white"/><br/>
-<b>🎯 User Impact</b><br/>
-<small>Burma Connect community app reached 10,000+ downloads on Play Store</small>
+<img src="https://img.shields.io/badge/100K+-Downloads-FF6B35?style=for-the-badge&logo=googleplay&logoColor=white"/><br/>
+<b>🚀 Massive Impact</b><br/>
+<small>Apps reached 100,000+ downloads with exceptional user ratings</small>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/RFID-Integration-4285F4?style=for-the-badge&logo=nfc&logoColor=white"/><br/>
@@ -194,7 +196,15 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=Thanks%20for%20visiting!&fontSize=16&fontAlign=50&fontAlignY=50&height=60&animation=fadeIn"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Always+ready+for+new+challenges!;Let's+build+something+amazing+together!" alt="Footer Typing" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
 ---
 
