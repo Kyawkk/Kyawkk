@@ -9,7 +9,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=KYAW+ZIN+LINN;Senior+Android+Developer;100K%2B+Downloads+Expert" alt="Header Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=KYAW+ZIN+LINN;Android+Developer;" alt="Header Typing" />
   </h1>
 </div>
 
