@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Android+Developer+%7C+Mobile+Architecture+Expert;4%2B+Years+Building+Scalable+Mobile+Solutions;Kotlin+%7C+Jetpack+Compose+%7C+Clean+Architecture;Singapore+%7C+Myanmar+%7C+Vietnam" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Android+Developer;Working+with+Mobile+Applications+for+4%2B+Years;Kotlin+%7C+Jetpack+Compose+%7C+Clean+Architecture;Singapore+%7C+Myanmar+%7C+Vietnam" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -38,21 +38,21 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-👋 **Android Developer with 4+ years** of experience building mobile applications
+👋 **Android Developer with 4+ years** of experience in mobile application development
 
 🏢 **Currently working as:** Software Developer at **SCITGoC**, Singapore
 
 📍 **Based in:** Da Nang, Vietnam
 
-🎯 **Focus Areas:** Clean Architecture • Performance Optimization • User Experience
+🎯 **Interests:** Clean Architecture • Performance Optimization • User Experience
 
-🌟 **Grateful to have:** Contributed to apps that reached 100,000+ users
+🌟 **Fortunate to have:** Been part of teams that developed apps reaching 100,000+ users
 
-💼 **Experience across:** Singapore • Myanmar • Vietnam markets
+💼 **Experience in:** Singapore • Myanmar • Vietnam markets
 
 🎓 **Education:** Bachelor of Engineering, University of Technology
 
-💡 **Always learning** new technologies and improving development practices
+💡 **Continuously learning** new technologies and development practices
 
 ---
 
@@ -153,25 +153,25 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Professional Highlights**
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Professional Experience**
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/100K+-Users_Reached-FF6B35?style=for-the-badge&logo=googleplay&logoColor=white"/><br/>
-<b>🙏 Grateful Impact</b><br/>
-<small>Thankful that apps I contributed to have reached over 100,000+ users</small>
+<b>🙏 Collaborative Success</b><br/>
+<small>Fortunate to have been part of teams whose apps reached over 100,000+ users</small>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/RFID-Integration-4285F4?style=for-the-badge&logo=nfc&logoColor=white"/><br/>
-<b>🔧 Technical Learning</b><br/>
-<small>Experienced with Zebra RFID readers and hardware integration projects</small>
+<b>🔧 Technical Growth</b><br/>
+<small>Worked with Zebra RFID readers and hardware integration projects</small>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Payment-Integration-00C851?style=for-the-badge&logo=stripe&logoColor=white"/><br/>
-<b>💳 FinTech Learning</b><br/>
-<small>Worked with 2C2P payment gateway and secure transaction implementations</small>
+<b>💳 Learning Journey</b><br/>
+<small>Gained experience with 2C2P payment gateway and transaction implementations</small>
 </td>
 </tr>
 </table>
@@ -198,14 +198,14 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Always+ready+for+new+challenges!;Let's+build+something+amazing+together!;Open+to+collaboration+and+opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Happy+to+take+on+new+challenges;Looking+forward+to+learning+and+growing+together;Open+to+collaboration+and+opportunities!" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=Thanks%20for%20visiting!&fontSize=16&fontAlign=50&fontAlignY=50&height=60&animation=fadeIn"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Always+ready+for+new+challenges!;Let's+build+something+amazing+together!" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Happy+to+connect+and+learn+from+others;Looking+forward+to+growing+together!" alt="Footer Typing" />
 </div>
 
 <div align="center">
@@ -215,5 +215,5 @@
 ---
 
 <div align="center">
-<i>⭐ Don't forget to star some repositories if you find them interesting! ⭐</i>
+<i>Thank you for taking the time to view my profile!</i>
 </div>
