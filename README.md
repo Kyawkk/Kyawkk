@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset=".github/assets/banner-light.svg">
-  <img alt="Kyaw Zin Linn, Software Engineer. Animated banner cycling through Android Engineer, Kotlin Multiplatform, and NFC, POS and RFID integrations." src=".github/assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset=".github/assets/banner-light-v3.svg">
+  <img alt="Kyaw Zin Linn, Software Engineer. Android and Kotlin Multiplatform, with NFC, POS and RFID integrations." src=".github/assets/banner-light-v3.svg" width="100%">
 </picture>
 
 <div align="center">
