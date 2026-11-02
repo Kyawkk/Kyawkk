@@ -1,219 +1,90 @@
-<!--
-██╗  ██╗██╗   ██╗ █████╗ ██╗    ██╗    ███████╗██╗███╗   ██╗    ██╗     ██╗███╗   ██╗███╗   ██╗
-██║ ██╔╝╚██╗ ██╔╝██╔══██╗██║    ██║    ╚══███╔╝██║████╗  ██║    ██║     ██║████╗  ██║████╗  ██║
-█████╔╝  ╚████╔╝ ███████║██║ █╗ ██║      ███╔╝ ██║██╔██╗ ██║    ██║     ██║██╔██╗ ██║██╔██╗ ██║
-██╔═██╗   ╚██╔╝  ██╔══██║██║███╗██║     ███╔╝  ██║██║╚██╗██║    ██║     ██║██║╚██╗██║██║╚██╗██║
-██║  ██╗   ██║   ██║  ██║╚███╔███╔╝    ███████╗██║██║ ╚████║    ███████╗██║██║ ╚████║██║ ╚████║
-╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝     ╚══════╝╚═╝╚═╝  ╚═══╝    ╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝
--->
-
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=KYAW+ZIN+LINN;Android+Developer;Clean+Architecture+Enthusiast" alt="Header Typing" />
-  </h1>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Android+Developer;Working+with+Mobile+Applications+for+4%2B+Years;Kotlin+%7C+Jetpack+Compose+%7C+Clean+Architecture;Singapore+%7C+Myanmar+%7C+Vietnam" alt="Typing SVG" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="KZL monogram followed by a line connecting three layer nodes" src="assets/header-light.svg" width="100%">
+</picture>
 
-<br/>
+# Kyaw Zin Linn
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF4088?style=for-the-badge&logoColor=white&labelColor=101010)](https://kyawzinlinn.vercel.app)
-[![Email](https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge&logoColor=white&labelColor=101010)](mailto:kzin5717@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kyaw...)
-[![Phone](https://img.shields.io/badge/📱_+84--377--215--294-25D366?style=for-the-badge&logoColor=white&labelColor=101010)](tel:+84377215294)
+**Android Engineer** · Kotlin · Jetpack Compose · NFC, POS and RFID hardware
 
-<img src="https://komarev.com/ghpvc/?username=Kyawkk&style=for-the-badge&color=blueviolet&labelColor=black" alt="Profile Views" />
+Software Developer at SCITGoC · working remotely from Da Nang, Vietnam
+
+[Portfolio](https://kyawzinlinn.vercel.app) · [Email](mailto:kzin5717@gmail.com?subject=Hello%20from%20GitHub)
+<!-- LinkedIn: add `· [LinkedIn](https://www.linkedin.com/in/<handle>)` once the exact URL is confirmed. -->
 
 </div>
 
-<br/>
+## About
 
----
+- Building Android apps since 2020, in Kotlin and Jetpack Compose, structured with MVVM and Clean Architecture.
+- Professional work centres on hardware-connected apps: NFC transit cards, POS terminals and RFID readers, plus payment-gateway integration.
+- Currently exploring Compose Multiplatform and newer Compose APIs, such as [shared element transitions](https://github.com/Kyawkk/Jetpack_Compose_New_APIs).
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
+## Hands-on work
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+Apps built around real hardware. Source is not public for these; case studies are on my [portfolio](https://kyawzinlinn.vercel.app).
 
-👋 **Android Developer with 4+ years** of experience in mobile application development
+- **Handheld POS and NFC bus ticketing.** Android app for fare collection on a constrained POS terminal: NFC (DESFire EV3) card taps, payment, thermal receipt printing, and trip management over GraphQL.
+- **Enterprise RFID and POS inventory.** Android app that connects handheld Zebra RFID readers to a cloud backend for asset tracking and point-of-sale, with real-time tag scanning and payment-gateway processing.
+- **Forge, an AI workout logger** *(in development)*. Compose Multiplatform app for Android and iOS that generates and adapts training routines.
 
-🏢 **Currently working as:** Software Developer at **SCITGoC**, Singapore
+## Technical focus
 
-📍 **Based in:** Da Nang, Vietnam
+| Area | Tools and practices |
+| :--- | :--- |
+| **UI** | Jetpack Compose, Material Design, Kotlin, Java |
+| **Architecture** | MVVM, Clean Architecture, multi-module Gradle projects, Hilt (Dagger), manual dependency injection |
+| **Data and background work** | Coroutines and Flow, Room, Retrofit, WorkManager, Paging 3, GraphQL, Firebase, Ktor, Supabase |
+| **Devices and payments** | NFC smart cards, POS terminal SDKs, Zebra RFID SDK, ESC/POS receipt printing, payment gateways |
+| **Tooling** | Android Studio, Git, GitHub |
 
-🎯 **Interests:** Clean Architecture • Performance Optimization • User Experience
+## Open-source projects
 
-🌟 **Fortunate to have:** Been part of teams that developed apps reaching 100,000+ users
+### [Spec-Comparer](https://github.com/Kyawkk/Spec-Comparer)
 
-💼 **Experience in:** Singapore • Myanmar • Vietnam markets
+Compare smartphones, SoCs, laptops and laptop CPUs side by side, using specifications scraped from the web.
 
-🎓 **Education:** Bachelor of Engineering, University of Technology
+- Feature modules (`home`, `search`, `details`, `compare`) sit on shared core modules (`data`, `domain`, `model`, `network`, `design-system`, `components`).
+- Built with Compose, Hilt, MVVM and Clean Architecture. Spec data is parsed with Jsoup; the repository states this is for educational use only.
+- **Stack:** `Kotlin` · `Jetpack Compose` · `Hilt` · `Jsoup`
+- **Links:** [Source](https://github.com/Kyawkk/Spec-Comparer) · [Release v1.0.0](https://github.com/Kyawkk/Spec-Comparer/releases/tag/v1.0.0)
 
-💡 **Continuously learning** new technologies and development practices
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Technology Stack**
-
-<div align="center">
-
-### 📱 **Mobile Development**
-<p>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-### 🏗️ **Architecture & Patterns**
-<p>
-<img src="https://img.shields.io/badge/MVVM-FF6B35?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-4CAF50?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dagger_Hilt-FF9800?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</p>
-
-### 🔧 **Core Technologies**
-<p>
-<img src="https://img.shields.io/badge/Room_Database-4285F4?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white"/>
-</p>
-
-### 🛠️ **Tools & Platforms**
-<p>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **Career Journey**
-
-<div align="center">
 <table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/2024-Present-00C851?style=for-the-badge&logo=calendar&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/SCITGoC-Singapore-FF4444?style=for-the-badge&logo=location&logoColor=white"/><br/>
-<b>Software Developer</b><br/>
-<small>Jetpack Compose • GraphQL • Payment Integration</small>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/2023-2024-33B5E5?style=for-the-badge&logo=calendar&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/E--Tag_RFID-Singapore-FF4444?style=for-the-badge&logo=location&logoColor=white"/><br/>
-<b>Android Developer</b><br/>
-<small>RFID Integration • Inventory Management</small>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/2022-2023-AA66CC?style=for-the-badge&logo=calendar&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Light_Idea-Myanmar-FFBB33?style=for-the-badge&logo=location&logoColor=white"/><br/>
-<b>Android Developer</b><br/>
-<small>Firebase • APIs • UI/UX Design</small>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/2020-2022-FF8800?style=for-the-badge&logo=calendar&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Freelance-Remote-00DDFF?style=for-the-badge&logo=location&logoColor=white"/><br/>
-<b>Android Developer</b><br/>
-<small>VPN Apps • Management Tools</small>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/ZdUnQS4AXEl1AERdil/giphy.gif" width="35"> **GitHub Statistics**
-
-<div align="center">
-<table>
-<tr>
-<td>
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Kyawkk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C5C5C5"/>
-</td>
-<td>
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyawkk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C5C5C5"/>
-</td>
-</tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Kyawkk/Spec-Comparer/master/screenshots/one.png" alt="Spec-Comparer home screen with four categories: smartphones, SoC, laptop CPUs and laptops" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/Kyawkk/Spec-Comparer/master/screenshots/four.png" alt="Spec-Comparer phone comparison screen" width="200"></td>
+  </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyawkk&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=C5C5C5"/>
+### [Weather_App](https://github.com/Kyawkk/Weather_App)
 
-</div>
+Weather forecasts for a chosen location, with hourly, daily and five-day views and an offline cache.
 
----
+- Split into `core-*` modules (`data`, `database`, `network`, `navigation`, `design`, `ui`) and `feature-*` modules (`location`, `weather`).
+- **Stack:** `Kotlin` · `Jetpack Compose` · `Hilt` · `Retrofit` · `Room` · `Coroutines`
+- **Links:** [Source](https://github.com/Kyawkk/Weather_App)
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Professional Experience**
+### [SMS_Sender](https://github.com/Kyawkk/SMS_Sender)
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/100K+-Users_Reached-FF6B35?style=for-the-badge&logo=googleplay&logoColor=white"/><br/>
-<b>🙏 Collaborative Success</b><br/>
-<small>Fortunate to have been part of teams whose apps reached over 100,000+ users</small>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/RFID-Integration-4285F4?style=for-the-badge&logo=nfc&logoColor=white"/><br/>
-<b>🔧 Technical Growth</b><br/>
-<small>Worked with Zebra RFID readers and hardware integration projects</small>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Payment-Integration-00C851?style=for-the-badge&logo=stripe&logoColor=white"/><br/>
-<b>💳 Learning Journey</b><br/>
-<small>Gained experience with 2C2P payment gateway and transaction implementations</small>
-</td>
-</tr>
-</table>
-</div>
+Schedule text messages and set up automatic replies to incoming SMS.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- Clean Architecture with presentation, domain and data layers. Scheduled sends run on WorkManager and a BroadcastReceiver handles incoming messages.
+- Dependencies are wired by hand, without a DI framework.
+- **Stack:** `Kotlin` · `Jetpack Compose` · `Room` · `WorkManager`
+- **Links:** [Source](https://github.com/Kyawkk/SMS_Sender)
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> **Let's Connect**
+**More:** [MoviesApp](https://github.com/Kyawkk/MoviesApp) (offline-cached movie browser) · [Beer_App](https://github.com/Kyawkk/Beer_App) (Paging 3, offline-first) · [Jetpack_Compose_New_APIs](https://github.com/Kyawkk/Jetpack_Compose_New_APIs) (experiments with new Compose APIs)
 
-<div align="center">
+## Experience
 
-<a href="https://kyawzinlinn.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio_Website-FF4088?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-<a href="mailto:kzin5717@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/kyaw...">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Kyawkk">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- **2024 – present** · Software Developer, SCITGoC (Singapore)
+- **2023 – 2024** · Android Developer, E-Tag RFID (Singapore)
+- **2022 – 2023** · Android Developer, Light Idea (Myanmar)
+- **2020 – 2022** · Freelance Android Developer (remote)
 
-<br/><br/>
+## Contact
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Happy+to+take+on+new+challenges;Looking+forward+to+learning+and+growing+together;Open+to+collaboration+and+opportunities!" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=Thanks%20for%20visiting!&fontSize=16&fontAlign=50&fontAlignY=50&height=60&animation=fadeIn"/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Happy+to+connect+and+learn+from+others;Looking+forward+to+growing+together!" alt="Footer Typing" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
----
-
-<div align="center">
-<i>Thank you for taking the time to view my profile!</i>
-</div>
+Email [kzin5717@gmail.com](mailto:kzin5717@gmail.com?subject=Hello%20from%20GitHub) or see my [portfolio](https://kyawzinlinn.vercel.app).
