@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220" role="img" aria-labelledby="t d">
+  <title id="t">Kyaw Zin Linn, Software Engineer</title>
+  <desc id="d">Animated banner cycling through the roles: Android Engineer, Kotlin Multiplatform, NFC · POS · RFID integrations.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#161B22"/></linearGradient>
+    <linearGradient id="brand" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="400" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#7F52FF"/><stop offset="0.33" stop-color="#3DDC84"/><stop offset="0.66" stop-color="#4285F4"/><stop offset="1" stop-color="#7F52FF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="360 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="c0"><rect x="72" y="130" width="250" height="44"><animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0.0;0.1167;0.2833;0.3333;1" values="0;250;250;0;0"/></rect></clipPath><clipPath id="c1"><rect x="72" y="130" width="0" height="44"><animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.3333;0.45;0.6167;0.6667;1" values="0;0;312;312;0;0"/></rect></clipPath><clipPath id="c2"><rect x="72" y="130" width="0" height="44"><animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.6667;0.7833;0.95;1" values="0;0;452;452;0"/></rect></clipPath>
+  </defs>
+  <rect x="1" y="1" width="798" height="218" rx="16" fill="url(#bg)" stroke="#30363D" stroke-width="2"/>
+  <text x="40" y="90" font-size="48" font-weight="700" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">Kyaw Zin Linn</text>
+  <text x="40" y="122" font-size="20" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">Software Engineer · Android &amp; Kotlin Multiplatform</text>
+  <text x="40" y="162" font-size="26" fill="#A78BFA" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">$</text>
+  <text x="72" y="162" font-size="26" textLength="250" lengthAdjust="spacing" fill="#3DDC84" clip-path="url(#c0)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Android Engineer</text><text x="72" y="162" font-size="26" textLength="312" lengthAdjust="spacing" fill="#3DDC84" clip-path="url(#c1)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Kotlin Multiplatform</text><text x="72" y="162" font-size="26" textLength="452" lengthAdjust="spacing" fill="#3DDC84" clip-path="url(#c2)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">NFC · POS · RFID integrations</text>
+  <rect x="72" y="134" width="11" height="34" rx="2" fill="#3DDC84"><animate attributeName="x" dur="12s" repeatCount="indefinite" keyTimes="0.0;0.1167;0.2833;0.3333;0.45;0.6167;0.6667;0.7833;0.95;1" values="72;322;322;72;384;384;72;524;524;72"/><animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;0;1" keyTimes="0;0.5;1"/></rect>
+  <rect x="610" y="58" width="150" height="30" rx="8" fill="url(#brand)" opacity="0.4"><animate attributeName="opacity" values="0.25;0.95;0.25" dur="3s" begin="0.0s" repeatCount="indefinite"/></rect><rect x="610" y="102" width="122" height="30" rx="8" fill="url(#brand)" opacity="0.4"><animate attributeName="opacity" values="0.25;0.95;0.25" dur="3s" begin="0.6s" repeatCount="indefinite"/></rect><rect x="610" y="146" width="94" height="30" rx="8" fill="url(#brand)" opacity="0.4"><animate attributeName="opacity" values="0.25;0.95;0.25" dur="3s" begin="1.2s" repeatCount="indefinite"/></rect>
+  <rect x="40" y="192" width="720" height="4" rx="2" fill="url(#brand)"/>
+</svg>
